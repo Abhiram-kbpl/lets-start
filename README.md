@@ -1,2 +1,2 @@
-# lets-start
+# my first repository
 this is my first repository
